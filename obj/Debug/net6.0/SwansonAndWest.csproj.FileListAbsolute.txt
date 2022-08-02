@@ -1,0 +1,17 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\bin\Debug\net6.0\SwansonAndWest.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\bin\Debug\net6.0\SwansonAndWest.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\bin\Debug\net6.0\SwansonAndWest.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\bin\Debug\net6.0\SwansonAndWest.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\bin\Debug\net6.0\SwansonAndWest.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\SwansonAndWest.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\SwansonAndWest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\SwansonAndWest.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\SwansonAndWest.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\SwansonAndWest.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\SwansonAndWest.csproj.CopyComplete
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\SwansonAndWest.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\refint\SwansonAndWest.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\SwansonAndWest.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\SwansonAndWest.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SwansonAndWest\SwansonAndWest\obj\Debug\net6.0\ref\SwansonAndWest.dll
